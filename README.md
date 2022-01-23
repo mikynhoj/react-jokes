@@ -1,1 +1,5 @@
-# react-jokes
+### Initialization
+
+```
+npm install && npm start
+```
